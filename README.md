@@ -1,7 +1,4 @@
-# Lautaro Vera
-
-Deep embedded firmware. Safety-critical systems, real-time hardware, edge AI.  
-Based in Barcelona.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=200&section=header&text=Lautaro%20Vera&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Deep%20embedded%20firmware%20·%20Edge%20AI&descSize=20&descAlignY=62&fontAlignY=38" width="100%"/>
 
 ---
 
