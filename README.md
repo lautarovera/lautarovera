@@ -9,16 +9,16 @@ Based in Barcelona.
 
 Most of my production work is proprietary.
 
-**[MobileKnowledge](https://www.themobileknowledge.com/)** — Senior Software Architect  
+**▸ [MobileKnowledge](https://www.themobileknowledge.com/)** — Senior Software Architect  
 > Foundation firmware for NXP [S32N5](https://www.nxp.com/products/S32N5) and [S32N7](https://www.nxp.com/products/S32N7) Vehicle Super-Integration Processors. Firmware team lead on [UWB BMS](https://www.nxp.com/company/about-nxp/smarter-world-videos/VSP-UW-BMS) early access release.
  
-**[RTI](https://www.rti.com/en/)** — Software Engineer II  
+**▸ [RTI](https://www.rti.com/en/)** — Software Engineer II  
 > Contributed to the ASIL-certified release of [RTI Connext Drive](https://www.rti.com/products/connext-drive), safety-critical DDS middleware for automotive.
  
-**[ALTEN](https://www.alten.es/)** — Senior Embedded Software Engineer  
+**▸ [ALTEN](https://www.alten.es/)** — Senior Embedded Software Engineer  
 > Bootloader and FOTA firmware owner for the [ATOM TCU](https://www.idneo.com/news/atom-telematics-unit-by-idneo) (Idneo) during the early-phase development.
  
-**[AEInnova](https://aeinnova.com/)** — Firmware Engineer  
+**▸ [AEInnova](https://aeinnova.com/)** — Firmware Engineer  
 > Sole firmware developer for the first release of [InduEye](https://aeinnova.com/medicion-de-vibraciones/), an energy harvesting sensor.
 
 ---
