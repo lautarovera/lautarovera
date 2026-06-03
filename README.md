@@ -28,7 +28,7 @@ Most of my production work is proprietary.
 
 Moving into edge ML and computer vision on embedded targets — TFLite Micro on Cortex-M, real-time CV inference on resource-constrained hardware. Hands-on work pinned below.
 
-![Crypto bootloader demo](docs/bootloader.gif)
+![Crypto bootloader demo](https://raw.githubusercontent.com/lautarovera/lautarovera/main/docs/bootloader.gif)
 *AES-CCM crypto bootloader with ECDSA signature on [MSP430FR5994](https://www.ti.com/product/MSP430FR5994)*
 
 ---
