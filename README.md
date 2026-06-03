@@ -10,26 +10,30 @@ Based in Barcelona.
 Most of my production work is proprietary.
 
 **[MobileKnowledge](https://www.themobileknowledge.com/)** — Senior Software Architect  
-Foundation firmware for NXP [S32N5](https://www.nxp.com/products/S32N5) and [S32N7](https://www.nxp.com/products/S32N7) Vehicle Super-Integration Processors. Firmware team lead on [UWB BMS](https://www.nxp.com/company/about-nxp/smarter-world-videos/VSP-UW-BMS) early access release.
+> Foundation firmware for NXP [S32N5](https://www.nxp.com/products/S32N5) and [S32N7](https://www.nxp.com/products/S32N7) Vehicle Super-Integration Processors. Firmware team lead on [UWB BMS](https://www.nxp.com/company/about-nxp/smarter-world-videos/VSP-UW-BMS) early access release.
  
 **[RTI](https://www.rti.com/en/)** — Software Engineer II  
-Contributed to the ASIL-certified release of [RTI Connext Drive](https://www.rti.com/products/connext-drive), safety-critical DDS middleware for automotive.
+> Contributed to the ASIL-certified release of [RTI Connext Drive](https://www.rti.com/products/connext-drive), safety-critical DDS middleware for automotive.
  
 **[ALTEN](https://www.alten.es/)** — Senior Embedded Software Engineer  
-Bootloader and FOTA firmware owner for the [ATOM TCU](https://www.idneo.com/news/atom-telematics-unit-by-idneo) (Idneo) during the early-phase development.
+> Bootloader and FOTA firmware owner for the [ATOM TCU](https://www.idneo.com/news/atom-telematics-unit-by-idneo) (Idneo) during the early-phase development.
  
 **[AEInnova](https://aeinnova.com/)** — Firmware Engineer  
-Sole firmware developer for the first release of [InduEye](https://aeinnova.com/medicion-de-vibraciones/), an energy harvesting sensor.
+> Sole firmware developer for the first release of [InduEye](https://aeinnova.com/medicion-de-vibraciones/), an energy harvesting sensor.
 
 ---
  
 ### 🤖 Portfolio
 
-![PWM module on FPGA](https://raw.githubusercontent.com/lautarovera/lautarovera/main/docs/vivado.jpg)<br>
-*PWM module hardware design with VHDL: synthesis and implementation on Xilinx Arty-Z710 with Vivado*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lautarovera/lautarovera/main/docs/bootloader.gif" width="500"/><br>
+  <em>AES-CCM crypto bootloader with ECDSA signature on <a href="https://www.ti.com/product/MSP430FR5994">MSP430FR5994</a></em>
+</p>
 
-![Crypto bootloader demo](https://raw.githubusercontent.com/lautarovera/lautarovera/main/docs/bootloader.gif)<br>
-*AES-CCM crypto bootloader with ECDSA signature on [MSP430FR5994](https://www.ti.com/product/MSP430FR5994)*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lautarovera/lautarovera/main/docs/vivado.jpg" width="500"/><br>
+  <em>PWM module hardware design with VHDL: synthesis and implementation on Xilinx Arty-Z710 with Vivado</em>
+</p>
  
 ---
  
