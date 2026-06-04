@@ -24,7 +24,7 @@ Most of my production work is proprietary.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lautarovera/lautarovera/main/docs/bootloader.gif" width="500"/><br>
-  <em>AES-CCM crypto bootloader with ECDSA signature on <a href="https://www.ti.com/product/MSP430FR5994">MSP430FR5994</a></em>
+  <em>AES-CCM crypto bootloader on <a href="https://www.ti.com/product/MSP430FR5994">MSP430FR5994</a></em>
 </p>
 
 <p align="center">
