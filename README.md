@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=200&section=header&text=Lautaro%20Vera&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Deep%20embedded%20firmware%20·%20Edge%20AI&descSize=20&descAlignY=62&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:3a1a0a&height=200&section=header&text=Lautaro%20Vera&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Deep%20embedded%20firmware%20%C2%B7%20Edge%20AI&descSize=20&descAlignY=62&fontAlignY=38&fontFamily=Ubuntu%20Mono%2Cmonospace" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=22&pause=1000&color=D97757&width=800&height=50&lines=Embedded+software+%7C+Firmware+%7C+Linux+%7C+ARM+%7C+RISC-V;Edge+AI+%7C+AI/ML+%7C+TFLite+%7C+Model+optimization;ISO+26262+ASIL-D%7C+Automotive+SoC&center=false&vCenter=true)](https://git.io/typing-svg)
 
 ---
 
